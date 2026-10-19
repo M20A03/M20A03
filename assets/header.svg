@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b12" />
+      <stop offset="50%" stop-color="#0c1220" />
+      <stop offset="100%" stop-color="#06080e" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="cyanBlueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+
+    <!-- Text Title Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="glowTopLeft" cx="15%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowBottomRight" cx="85%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="techGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.07" />
+    </pattern>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseDot {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    .pulse-indicator { animation: pulseDot 2s ease-in-out infinite; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', Helvetica, sans-serif; }
+  </style>
+
+  <!-- Container -->
+  <rect width="850" height="220" rx="14" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
+  
+  <!-- Ambient Glows -->
+  <rect width="850" height="220" rx="14" fill="url(#glowTopLeft)" />
+  <rect width="850" height="220" rx="14" fill="url(#glowBottomRight)" />
+
+  <!-- Grid Overlay -->
+  <rect width="850" height="220" rx="14" fill="url(#techGrid)" />
+
+  <!-- Top Decorative Tech Border -->
+  <path d="M 40 1 L 180 1" stroke="url(#cyanBlueGrad)" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M 810 1 L 670 1" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Status Bar (Top) -->
+  <g transform="translate(45, 42)">
+    <circle cx="5" cy="5" r="4" fill="#10b981" class="pulse-indicator" />
+    <text x="18" y="9" fill="#10b981" class="mono" font-size="11" font-weight="600" letter-spacing="1.5">CORE STATUS: ACTIVE</text>
+    <text x="185" y="9" fill="#64748b" class="mono" font-size="11">//</text>
+    <text x="205" y="9" fill="#94a3b8" class="mono" font-size="11" letter-spacing="1">SYSTEMS: 17 DEPLOYMENTS VERIFIED</text>
+    <text x="495" y="9" fill="#64748b" class="mono" font-size="11">//</text>
+    <text x="515" y="9" fill="#38bdf8" class="mono" font-size="11" letter-spacing="1">LOCATION: BENGALURU, IN</text>
+  </g>
+
+  <!-- Main Name Typography -->
+  <g transform="translate(45, 105)">
+    <text x="0" y="0" fill="url(#textGrad)" class="sans" font-size="44" font-weight="900" letter-spacing="-1">MAYANK RAJ</text>
+    <text x="350" y="-8" fill="#38bdf8" class="mono" font-size="14" font-weight="600" letter-spacing="2">[ 0xMRG ]</text>
+  </g>
+
+  <!-- Subtitle Role -->
+  <g transform="translate(45, 140)">
+    <text x="0" y="0" fill="#f8fafc" class="mono" font-size="15" font-weight="700" letter-spacing="1.5">FULL-STACK SYSTEMS ARCHITECT &amp; AI RESEARCHER</text>
+  </g>
+
+  <!-- Tagline / Focus -->
+  <g transform="translate(45, 172)">
+    <rect x="0" y="-14" width="760" height="28" rx="6" fill="#0f172a" fill-opacity="0.8" stroke="#1e293b" stroke-width="1" />
+    <text x="14" y="4" fill="#cbd5e1" class="mono" font-size="11.5" font-weight="500">
+      <tspan fill="#38bdf8">PRAXIRENCE</tspan> AMBIENT INTELLIGENCE  •  <tspan fill="#60a5fa">PYTHON &amp; PYTORCH</tspan>  •  <tspan fill="#a78bfa">NEXT.JS 15 &amp; REACT 19</tspan>  •  <tspan fill="#34d399">ZERO-TRUST DPDP</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Corner Coordinate Stamp -->
+  <text x="805" y="202" fill="#475569" class="mono" font-size="9" text-anchor="end" letter-spacing="1">ARCH://2026.10</text>
+</svg>
