@@ -115,10 +115,10 @@ class Engineer:
 
 <div align="center">
   <a href="https://github.com/M20A03">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M20A03&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8" alt="Mayank Raj's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M20A03&theme=tokyonight&show_icons=true&hide_rank=true&hide_border=false&border_radius=8" alt="Mayank Raj's GitHub Stats" />
   </a>
   <a href="https://github.com/M20A03">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20A03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&border_radius=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20A03&theme=tokyonight&hide=typescript,html,css&layout=compact&show_icons=true&hide_border=false&border_radius=8" alt="Top Languages" />
   </a>
 </div>
 
@@ -137,49 +137,31 @@ class Engineer:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="160">
+      <td align="center" width="220">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" alt="Galaxy Brain" />
           <br />
           <b>Galaxy Brain</b>
           <br />
-          <sub>Accepted Q&A Answers</sub>
+          <sub>Accepted Q&amp;A Answers</sub>
         </a>
       </td>
-      <td align="center" width="160">
+      <td align="center" width="220">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
           <br />
           <b>YOLO</b>
           <br />
           <sub>Merged without review</sub>
         </a>
       </td>
-      <td align="center" width="160">
+      <td align="center" width="220">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
           <br />
           <b>Quickdraw</b>
           <br />
           <sub>Closed within 5 mins</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" />
-          <br />
-          <b>Pull Shark</b>
-          <br />
-          <sub>Merged Pull Requests</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" />
-          <br />
-          <b>Pair Extraordinaire</b>
-          <br />
-          <sub>Co-authored commits</sub>
         </a>
       </td>
     </tr>
