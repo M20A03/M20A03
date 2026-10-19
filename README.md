@@ -137,31 +137,49 @@ class Engineer:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="220">
+      <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="95" alt="Galaxy Brain" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain" />
           <br />
           <b>Galaxy Brain</b>
           <br />
           <sub>Accepted Q&amp;A Answers</sub>
         </a>
       </td>
-      <td align="center" width="220">
+      <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95" alt="YOLO" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" />
           <br />
           <b>YOLO</b>
           <br />
           <sub>Merged without review</sub>
         </a>
       </td>
-      <td align="center" width="220">
+      <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95" alt="Quickdraw" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" />
           <br />
           <b>Quickdraw</b>
           <br />
           <sub>Closed within 5 mins</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" />
+          <br />
+          <b>Pull Shark</b>
+          <br />
+          <sub>Merged Pull Requests</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" />
+          <br />
+          <b>Pair Extraordinaire</b>
+          <br />
+          <sub>Co-authored commits</sub>
         </a>
       </td>
     </tr>
