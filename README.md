@@ -132,18 +132,42 @@ class Engineer:
 
 ---
 
-### // 05. OFFICIAL GITHUB ACHIEVEMENTS
+### // 05. OFFICIAL GITHUB ACHIEVEMENTS & TIERS
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="85" alt="Galaxy Brain (Gold Tier)" />
           <br />
           <b>Galaxy Brain</b>
           <br />
-          <sub>Accepted Q&amp;A Answers</sub>
+          <img src="https://img.shields.io/badge/TIER-GOLD%20(x32)-ffd700?style=flat-square" alt="Gold Tier" />
+          <br />
+          <sub>32 Accepted Q&amp;A Answers</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="85" alt="Pair Extraordinaire (Gold Tier)" />
+          <br />
+          <b>Pair Extraordinaire</b>
+          <br />
+          <img src="https://img.shields.io/badge/TIER-GOLD%20(x48)-ffd700?style=flat-square" alt="Gold Tier" />
+          <br />
+          <sub>50+ Co-authored PRs</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="85" alt="Pull Shark (Bronze / 50+ PRs)" />
+          <br />
+          <b>Pull Shark</b>
+          <br />
+          <img src="https://img.shields.io/badge/TIER-BRONZE%20(50%2B%20PRS)-cd7f32?style=flat-square" alt="Bronze Tier" />
+          <br />
+          <sub>50+ Merged Pull Requests</sub>
         </a>
       </td>
       <td align="center" width="160">
@@ -151,6 +175,8 @@ class Engineer:
           <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO" />
           <br />
           <b>YOLO</b>
+          <br />
+          <img src="https://img.shields.io/badge/STATUS-UNLOCKED-00e676?style=flat-square" alt="Unlocked" />
           <br />
           <sub>Merged without review</sub>
         </a>
@@ -161,30 +187,32 @@ class Engineer:
           <br />
           <b>Quickdraw</b>
           <br />
-          <sub>Closed within 5 mins</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" />
+          <img src="https://img.shields.io/badge/STATUS-UNLOCKED-00e676?style=flat-square" alt="Unlocked" />
           <br />
-          <b>Pull Shark</b>
-          <br />
-          <sub>Merged Pull Requests</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" />
-          <br />
-          <b>Pair Extraordinaire</b>
-          <br />
-          <sub>Co-authored commits</sub>
+          <sub>Closed issue &lt; 5 mins</sub>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+<br/>
+
+<details>
+<summary><b>▸ HOW TO GET MORE GITHUB BADGES & UPGRADE TO GOLD TIERS</b></summary>
+<br/>
+
+| Achievement Badge | Tier Requirements | Profile Status | How to Earn / Upgrade to Highest Tier |
+| :--- | :--- | :--- | :--- |
+| **Galaxy Brain** | Base: 2 · Bronze: 8 · Silver: 16 · **Gold: 32** | **Gold Tier (32 / 32 Answers)** | Answer developer questions in GitHub Discussions marked as the **Accepted Answer** by repository maintainers. *(Max Gold Tier attained)* |
+| **Pair Extraordinaire** | Base: 1 · Bronze: 10 · Silver: 24 · **Gold: 48** | **Gold Tier (50+ Co-authored PRs)** | Author or co-author pull requests merged into default branches using `Co-authored-by: Name <email>` commit trailers. *(Max Gold Tier attained)* |
+| **Pull Shark** | Base: 2 · Bronze: 16 · Silver: 128 · **Gold: 1,024** | **Bronze+ Tier (50+ Merged PRs)** | Create and merge pull requests across public open-source repositories. Continues toward Silver (128 PRs). |
+| **YOLO** | Single Milestone | **Unlocked** | Merge a pull request directly without an external code review or review approval requirement. |
+| **Quickdraw** | Single Milestone | **Unlocked** | Close an open issue or pull request within 5 minutes of creation. |
+| **Starstruck** | Base: 16 · Bronze: 128 · Silver: 512 · **Gold: 4,096** | **In Progress** | Accumulate 16 unique stars on a single repository. Share flagship systems like [Praxirence](https://github.com/M20A03/Praxirence) or [Credex](https://github.com/M20A03/Credex) on LinkedIn, Reddit, and developer communities. |
+| **Public Sponsor** | Single Milestone | **Actionable** | Sponsor any open-source contributor or library for $1/month via GitHub Sponsors. |
+
+</details>
 
 ---
 
