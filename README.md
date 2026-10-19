@@ -31,20 +31,11 @@
     <tr>
       <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" />
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain" />
           <br />
-          <b>Pull Shark</b>
+          <b>Galaxy Brain</b>
           <br />
-          <sub>Merged Pull Requests</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" />
-          <br />
-          <b>Quickdraw</b>
-          <br />
-          <sub>Closed within 5 mins</sub>
+          <sub>Accepted Q&A Answers</sub>
         </a>
       </td>
       <td align="center" width="160">
@@ -58,20 +49,29 @@
       </td>
       <td align="center" width="160">
         <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw" />
+          <br />
+          <b>Quickdraw</b>
+          <br />
+          <sub>Closed within 5 mins</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
+          <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark" />
+          <br />
+          <b>Pull Shark</b>
+          <br />
+          <sub>Merged Pull Requests</sub>
+        </a>
+      </td>
+      <td align="center" width="160">
+        <a href="https://github.com/M20A03?tab=achievements">
           <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" />
           <br />
           <b>Pair Extraordinaire</b>
           <br />
           <sub>Co-authored commits</sub>
-        </a>
-      </td>
-      <td align="center" width="160">
-        <a href="https://github.com/M20A03?tab=achievements">
-          <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="85" alt="Starstruck" />
-          <br />
-          <b>Starstruck</b>
-          <br />
-          <sub>16+ Repository Stars</sub>
         </a>
       </td>
     </tr>
