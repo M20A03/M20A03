@@ -14,33 +14,17 @@
 
 ---
 
-### // 01. ARCHITECTURE & ACTIVE SYSTEMS
+### // 01. PROFILE & ACTIVE SYSTEMS
 
-```python
-# mayank.py — Systems Architecture & Core Manifest
-from dataclasses import dataclass, field
-from typing import Dict, List
+> **Full-Stack Systems Architect & AI Researcher** based in Bengaluru, India. BCA Scholar at Christ University specializing in acoustic speech recognition, clinical LLM synthesis, and high-performance distributed web applications.
 
-@dataclass
-class Engineer:
-    handle: str = "M20A03"
-    name: str = "Mayank Raj"
-    role: str = "Full-Stack Systems Architect & AI Researcher"
-    institution: str = "Christ University, Bengaluru"
-    location: str = "Bengaluru, India"
-    
-    flagship_system: str = "Praxirence — Ambient Clinical Intelligence Platform"
-    research_scope: List[str] = field(default_factory=lambda: [
-        "Acoustic Speech Recognition (Whisper ASR)",
-        "Clinical LLM Synthesis (Mistral-7B / BioMistral)",
-        "Zero-Trust Patient Vaults (AES-256-GCM / In-Memory Shredding)",
-        "Dual Native Android Architecture (Doctor & Patient Ecosystems)"
-    ])
-    
-    primary_language: str = "Python"
-    verified_production_deployments: int = 17
-    operational_status: str = "Engineering next-generation healthcare & spatial tools."
-```
+| Attribute | Details |
+| :--- | :--- |
+| **Flagship System** | **[Praxirence](https://github.com/M20A03/Praxirence)** — Ambient Clinical Intelligence Platform (Whisper ASR + Fine-tuned Mistral-7B) |
+| **Core Stacks** | Python (PyTorch, FastAPI, OpenCV) • Next.js 15 / React 19 • TypeScript • Android (Native / Expo) |
+| **Research Scope** | Acoustic Speech Recognition • Clinical LLM Synthesis • Zero-Trust Patient Vaults • Distributed Systems |
+| **Active Deployments** | **17+ verified production-grade systems** across Healthcare, FinTech, EdTech, and Commerce |
+| **Operational Status** | 🟢 Actively engineering next-generation healthcare, spatial, and financial systems |
 
 * **Ambient Clinical AI:** Engineering **[Praxirence](https://github.com/M20A03/Praxirence)** — dual native Android applications with automated multi-speaker SOAP clinical care plan synthesis powered by Whisper ASR and fine-tuned Mistral-7B, backed by zero-trust DPDP/HIPAA-compliant in-memory shredding and AES-256-GCM encryption.
 * **Full-Stack Ecosystems:** Architect and maintainer of 17+ verified production-grade web applications spanning FinTech ([Credex](https://credex-sand.vercel.app/)), EdTech ([StudyArchive](https://straw-hats-7795d.web.app/), [Nexus Scholar](https://nexus-scholar-huhs.vercel.app/)), and Retail Commerce ([Roshan Enterprises](https://e-commerce-roshan-enterprises-dhn.web.app/)).
