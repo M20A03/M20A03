@@ -20,13 +20,13 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Flagship System** | **[Praxirence](https://github.com/M20A03/Praxirence)** — Ambient Clinical Intelligence Platform (Whisper ASR + Fine-tuned Mistral-7B) |
+| **Flagship System** | **Praxirence** — Ambient Clinical Intelligence Platform (Healthcare AI) |
 | **Core Stacks** | Python (PyTorch, FastAPI, OpenCV) • Next.js 15 / React 19 • TypeScript • Android (Native / Expo) |
-| **Research Scope** | Acoustic Speech Recognition • Clinical LLM Synthesis • Zero-Trust Patient Vaults • Distributed Systems |
+| **Research Scope** | Acoustic Speech Processing • Clinical Intelligence Synthesis • Enterprise Distributed Systems |
 | **Active Deployments** | **17+ verified production-grade systems** across Healthcare, FinTech, EdTech, and Commerce |
 | **Operational Status** | 🟢 Actively engineering next-generation healthcare, spatial, and financial systems |
 
-* **Ambient Clinical AI:** Engineering **[Praxirence](https://github.com/M20A03/Praxirence)** — dual native Android applications with automated multi-speaker SOAP clinical care plan synthesis powered by Whisper ASR and fine-tuned Mistral-7B, backed by zero-trust DPDP/HIPAA-compliant in-memory shredding and AES-256-GCM encryption.
+* **Ambient Clinical AI:** Engineering **Praxirence** — proprietary ambient clinical intelligence platform delivering real-time clinical care documentation and enterprise healthcare workflow automation.
 * **Full-Stack Ecosystems:** Architect and maintainer of 17+ verified production-grade web applications spanning FinTech ([Credex](https://credex-sand.vercel.app/)), EdTech ([StudyArchive](https://straw-hats-7795d.web.app/), [Nexus Scholar](https://nexus-scholar-huhs.vercel.app/)), and Retail Commerce ([Roshan Enterprises](https://e-commerce-roshan-enterprises-dhn.web.app/)).
 * **Specialization Matrix:** Python, Next.js 15, React 19, TypeScript, PyTorch, Whisper ASR, Mistral-7B, OpenCV, Java (Swing, JSP), FastAPI, and mobile-first responsive architecture.
 
@@ -84,7 +84,7 @@
 
 | Project | Domain | Architectural Stack | Production Access |
 | :--- | :--- | :--- | :--- |
-| **[Praxirence](https://github.com/M20A03/Praxirence)** | Healthcare AI | Dual Android Apps, Whisper ASR, Mistral-7B, AES-256 | [**Source Repository**](https://github.com/M20A03/Praxirence) |
+| **Praxirence** | Healthcare AI | Ambient Clinical Intelligence Platform | [**Enterprise Portal**](https://www.mayankraj.me) |
 | **[Credex](https://github.com/M20A03/Credex)** | FinTech / AI Audit | Next.js 15, React 19, TypeScript, Claude AI, Vercel | [**Launch Live System**](https://credex-sand.vercel.app/) |
 | **[Portfolio 2026](https://github.com/M20A03/Portfolio)** | Spatial Engineering | Next.js 15, React 19, Radix UI, Framer Motion, Vercel | [**Launch Live System**](https://portfolio-alpha-kohl-lqt3tnm7tp.vercel.app/) |
 | **[StudyArchive](https://github.com/M20A03/StudyArchive)** | Academic Collaboration | Angular 21 (SSR), TypeScript, Firebase Firestore | [**Launch Live System**](https://straw-hats-7795d.web.app/) |
@@ -193,7 +193,7 @@
 | **Pull Shark** | Base: 2 · Bronze: 16 · Silver: 128 · **Gold: 1,024** | **Bronze+ Tier (50+ Merged PRs)** | Create and merge pull requests across public open-source repositories. Continues toward Silver (128 PRs). |
 | **YOLO** | Single Milestone | **Unlocked** | Merge a pull request directly without an external code review or review approval requirement. |
 | **Quickdraw** | Single Milestone | **Unlocked** | Close an open issue or pull request within 5 minutes of creation. |
-| **Starstruck** | Base: 16 · Bronze: 128 · Silver: 512 · **Gold: 4,096** | **In Progress** | Accumulate 16 unique stars on a single repository. Share flagship systems like [Praxirence](https://github.com/M20A03/Praxirence) or [Credex](https://github.com/M20A03/Credex) on LinkedIn, Reddit, and developer communities. |
+| **Starstruck** | Base: 16 · Bronze: 128 · Silver: 512 · **Gold: 4,096** | **In Progress** | Accumulate 16 unique stars on a single repository. Share flagship public systems like [Credex](https://github.com/M20A03/Credex) or [Portfolio](https://github.com/M20A03/Portfolio) on LinkedIn, Reddit, and developer communities. |
 | **Public Sponsor** | Single Milestone | **Actionable** | Sponsor any open-source contributor or library for $1/month via GitHub Sponsors. |
 
 </details>
