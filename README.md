@@ -80,18 +80,30 @@
 
 ---
 
-### // 03. LIVE VERIFIED DEPLOYMENTS
+### // 03. LIVE VERIFIED DEPLOYMENTS & PRODUCTION SYSTEMS
 
-| Project | Domain | Architectural Stack | Production Access |
-| :--- | :--- | :--- | :--- |
-| **Praxirence** | Healthcare AI | Ambient Clinical Intelligence Platform | [**Enterprise Portal**](https://www.mayankraj.me) |
-| **[Credex](https://github.com/M20A03/Credex)** | FinTech / AI Audit | Next.js 15, React 19, TypeScript, Claude AI, Vercel | [**Launch Live System**](https://credex-sand.vercel.app/) |
-| **[Portfolio 2026](https://github.com/M20A03/Portfolio)** | Spatial Engineering | Next.js 15, React 19, Radix UI, Framer Motion, Vercel | [**Launch Live System**](https://portfolio-alpha-kohl-lqt3tnm7tp.vercel.app/) |
-| **[StudyArchive](https://github.com/M20A03/StudyArchive)** | Academic Collaboration | Angular 21 (SSR), TypeScript, Firebase Firestore | [**Launch Live System**](https://straw-hats-7795d.web.app/) |
-| **[Nexus-Scholar](https://github.com/M20A03/Nexus-Scholar)** | University Enterprise | React 18, Python FastAPI Backend, Gemini AI Engine | [**Launch Live System**](https://nexus-scholar-huhs.vercel.app/) |
-| **[Roshan Enterprises](https://github.com/M20A03/E-commerce-Online-Shopping-for-Retail-and-Wholesale)** | Retail & Wholesale | React 18, Vite, Firebase Firestore, QR Invoicing | [**Launch Live System**](https://e-commerce-roshan-enterprises-dhn.web.app/) |
-| **[Fintech Neobank](https://github.com/M20A03/Fintech)** | Banking Dashboard | Vanilla ES6+, 3D Gyroscope Physics, Canvas Engine | [**Launch Live System**](https://fintech-six-pi.vercel.app/) |
-| **[Sakthi Dental Clinic](https://github.com/M20A03/Sakthi-Dental-Clinic)** | Clinical Portal | React 18, Vite, Responsive Medical UX Routing | [**Launch Live System**](https://sakthi-dental-clinic-rust.vercel.app/) |
+| Tier & Domain | System / Project | Deployment Platform | Core Tech Stack | Verified Live Production Access |
+| :--- | :--- | :--- | :--- | :--- |
+| 🏥 **Healthcare AI** | **[Praxirence](https://github.com/M20A03/Praxirence)** | `Enterprise Cloud / Expo Native` | `React Native / FastAPI / Whisper / Mistral-7B` | [**🌐 Enterprise Portal**](https://www.mayankraj.me) |
+| 💳 **FinTech** | **[Credex](https://github.com/M20A03/Credex)** | `Vercel` | `Next.js 15 / React 19 / TypeScript / Claude AI` | [**🌐 Launch on Vercel**](https://credex-sand.vercel.app/) |
+| 🚀 **Flagship** | **[Portfolio 2026](https://github.com/M20A03/Portfolio)** | `Vercel` | `Next.js 15 / React 19 / TypeScript / Radix UI` | [**🌐 Launch on Vercel**](https://portfolio-alpha-kohl-lqt3tnm7tp.vercel.app/) |
+| 💳 **FinTech** | **[Fintech Neobank](https://github.com/M20A03/Fintech)** | `Vercel` | `Vanilla ES6+ / 3D Gyroscope Physics / Canvas` | [**🌐 Launch on Vercel**](https://fintech-six-pi.vercel.app/) |
+| 🎓 **EdTech** | **[Nexus-Scholar](https://github.com/M20A03/Nexus-Scholar)** | `Vercel (Frontend) / GCP (AI)` | `React 18 / Python FastAPI / Gemini AI Engine` | [**🌐 Launch on Vercel**](https://nexus-scholar-huhs.vercel.app/) |
+| 🏥 **Healthcare** | **[Sakthi Dental Clinic](https://github.com/M20A03/Sakthi-Dental-Clinic)** | `Vercel` | `React 18 / Vite / Responsive Medical UX` | [**🌐 Launch on Vercel**](https://sakthi-dental-clinic-rust.vercel.app/) |
+| ⚡ **Interactive** | **[Space Explorer Visualizer](https://github.com/M20A03/Linear-and-Bineary-Search-Simulation)** | `Vercel / Firebase` | `React / Canvas Engine / WebAudio Algorithms` | [**🌐 Launch on Vercel**](https://linear-and-binary-search.vercel.app/) |
+| ⚡ **Interactive** | **[Startup-Pitch (Karo Pitch)](https://github.com/M20A03/Startup-Pitch)** | `Vercel` | `React 18 / Vite / Financial Metrics Deck` | [**🌐 Launch on Vercel**](https://startup-pitch-react.vercel.app/) |
+| 🛒 **E-Commerce** | **[Amazon Clone](https://github.com/M20A03/Amazon-Clone)** | `Vercel` | `Next.js 14 / React 18 / Spatial Cart Physics` | [**🌐 Launch on Vercel**](https://shadow-fox-e-commerce.vercel.app/) |
+| 🛒 **E-Commerce** | **[Lumi-Glow Boutique](https://github.com/M20A03/Lumi-Glow)** | `Vercel` | `React 18 / Vite / Luxury Botanical Cosmetics` | [**🌐 Launch on Vercel**](https://lumi-glow-sigma.vercel.app/) |
+| 🎓 **EdTech** | **[StudyArchive](https://github.com/M20A03/StudyArchive)** | `Firebase Hosting` | `Angular 21 (SSR) / TypeScript / Firestore` | [**🔥 Launch on Firebase**](https://straw-hats-7795d.web.app/) |
+| 🛒 **Commerce** | **[Roshan Enterprises](https://github.com/M20A03/E-commerce-Online-Shopping-for-Retail-and-Wholesale)** | `Firebase Hosting` | `React 18 / Vite / QR Invoicing / Firestore` | [**🔥 Launch on Firebase**](https://e-commerce-roshan-enterprises-dhn.web.app/) |
+| 🍰 **Storefront** | **[Cake Heaven](https://github.com/M20A03/Cake-Heaven)** | `Firebase Hosting` | `Angular 18 / SCSS / Real-time Confectionery` | [**🔥 Launch on Firebase**](https://angappbackery-216fe.web.app/) |
+| ⚡ **Interactive** | **[Pokédex Lite](https://github.com/M20A03/Pokedex-Lite)** | `Firebase Hosting` | `React 18 / 3D Holographic CSS / PokeAPI` | [**🔥 Launch on Firebase**](https://pokedex-deepsolv.web.app/) |
+| 🌐 **Spatial** | **[MRG Spatial Idea](https://github.com/M20A03/Future-working-app)** | `Firebase Hosting` | `React 18 / Leaflet Mapping / Spatial Engine` | [**🔥 Launch on Firebase**](https://mrg-idea.web.app/) |
+| 🌟 **Interactive** | **[Meri Jaan — Birthday](https://github.com/M20A03/Love)** | `Firebase Hosting` | `React 19 / Vite / Ambient Islamic Aesthetics` | [**🔥 Launch on Firebase**](https://meri-jaan-happy-birthday.web.app/) |
+| 🌟 **Interactive** | **[Sorry Meri Jaan](https://github.com/M20A03/Sorry-meri-jaan)** | `Firebase Hosting` | `Next.js / Framer Motion / Reflection Narrative` | [**🔥 Launch on Firebase**](https://sorry-meri-jaan.web.app/) |
+| 🏢 **Enterprise** | **[Dayflow HRMS (Odoo Suite)](https://github.com/M20A03/Odoo)** | `Docker Suite / Enterprise Cloud` | `React 18 / TypeScript / FastAPI / PostgreSQL` | [**💻 Docker Monorepo**](https://github.com/M20A03/Odoo) |
+| 🏢 **Enterprise** | **[Online Meeting App](https://github.com/M20A03/OnlineMeetingApp)** | `Flask / Socket.IO / WebRTC` | `Python Flask / Socket.IO / WebRTC Mesh` | [**💻 WebRTC Suite**](https://github.com/M20A03/OnlineMeetingApp) |
+| 🌟 **Open-Source** | **[Open-Source-Hub](https://github.com/M20A03/Open-Source-Hub)** | `GitHub Actions CI` | `Python 3 / Algorithm Architecture / Tests` | [**📂 GitHub Repository**](https://github.com/M20A03/Open-Source-Hub) |
 
 ---
 
