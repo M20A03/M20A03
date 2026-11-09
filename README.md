@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Mayank Raj — Full-Stack Systems Architect & AI Researcher" width="100%" />
+<img src="./assets/header.svg" alt="Mayank Raj: Full-Stack Systems Architect & AI Researcher" width="100%" />
 
 <br/>
 
@@ -20,13 +20,13 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Flagship System** | **Praxirence** — Ambient Clinical Intelligence Platform (Healthcare AI) |
+| **Flagship System** | **Praxirence** : Ambient Clinical Intelligence Platform (Healthcare AI) |
 | **Core Stacks** | Python (PyTorch, FastAPI, OpenCV) • Next.js 15 / React 19 • TypeScript • Android (Native / Expo) |
 | **Research Scope** | Acoustic Speech Processing • Clinical Intelligence Synthesis • Enterprise Distributed Systems |
 | **Active Deployments** | **17+ verified production-grade systems** across Healthcare, FinTech, EdTech, and Commerce |
 | **Operational Status** | 🟢 Actively engineering next-generation healthcare, spatial, and financial systems |
 
-* **Ambient Clinical AI:** Engineering **Praxirence** — proprietary ambient clinical intelligence platform delivering real-time clinical care documentation and enterprise healthcare workflow automation.
+* **Ambient Clinical AI:** Engineering **Praxirence** - proprietary ambient clinical intelligence platform delivering real-time clinical care documentation and enterprise healthcare workflow automation.
 * **Full-Stack Ecosystems:** Architect and maintainer of 17+ verified production-grade web applications spanning FinTech ([Credex](https://credex-sand.vercel.app/)), EdTech ([StudyArchive](https://straw-hats-7795d.web.app/), [Nexus Scholar](https://nexus-scholar-huhs.vercel.app/)), and Retail Commerce ([Roshan Enterprises](https://e-commerce-roshan-enterprises-dhn.web.app/)).
 * **Specialization Matrix:** Python, Next.js 15, React 19, TypeScript, PyTorch, Whisper ASR, Mistral-7B, OpenCV, Java (Swing, JSP), FastAPI, and mobile-first responsive architecture.
 
@@ -99,7 +99,7 @@
 | 🍰 **Storefront** | **[Cake Heaven](https://github.com/M20A03/Cake-Heaven)** | `Firebase Hosting` | `Angular 18 / SCSS / Real-time Confectionery` | [**🔥 Launch on Firebase**](https://angappbackery-216fe.web.app/) |
 | ⚡ **Interactive** | **[Pokédex Lite](https://github.com/M20A03/Pokedex-Lite)** | `Firebase Hosting` | `React 18 / 3D Holographic CSS / PokeAPI` | [**🔥 Launch on Firebase**](https://pokedex-deepsolv.web.app/) |
 | 🌐 **Spatial** | **[MRG Spatial Idea](https://github.com/M20A03/Future-working-app)** | `Firebase Hosting` | `React 18 / Leaflet Mapping / Spatial Engine` | [**🔥 Launch on Firebase**](https://mrg-idea.web.app/) |
-| 🌟 **Interactive** | **[Meri Jaan — Birthday](https://github.com/M20A03/Love)** | `Firebase Hosting` | `React 19 / Vite / Ambient Islamic Aesthetics` | [**🔥 Launch on Firebase**](https://meri-jaan-happy-birthday.web.app/) |
+| 🌟 **Interactive** | **[Meri Jaan - Birthday](https://github.com/M20A03/Love)** | `Firebase Hosting` | `React 19 / Vite / Ambient Islamic Aesthetics` | [**🔥 Launch on Firebase**](https://meri-jaan-happy-birthday.web.app/) |
 | 🌟 **Interactive** | **[Sorry Meri Jaan](https://github.com/M20A03/Sorry-meri-jaan)** | `Firebase Hosting` | `Next.js / Framer Motion / Reflection Narrative` | [**🔥 Launch on Firebase**](https://sorry-meri-jaan.web.app/) |
 | 🏢 **Enterprise** | **[Dayflow HRMS (Odoo Suite)](https://github.com/M20A03/Odoo)** | `Docker Suite / Enterprise Cloud` | `React 18 / TypeScript / FastAPI / PostgreSQL` | [**💻 Docker Monorepo**](https://github.com/M20A03/Odoo) |
 | 🏢 **Enterprise** | **[Online Meeting App](https://github.com/M20A03/OnlineMeetingApp)** | `Flask / Socket.IO / WebRTC` | `Python Flask / Socket.IO / WebRTC Mesh` | [**💻 WebRTC Suite**](https://github.com/M20A03/OnlineMeetingApp) |
